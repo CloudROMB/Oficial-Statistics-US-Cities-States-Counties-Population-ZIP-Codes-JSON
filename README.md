@@ -8,3 +8,11 @@ Statistics of North American Affordable Data
 * 29488 US cities
 * JSON format
 * Up to date 09/28/2020
+
+Sources:
+* U.S. Geological Survey
+https://www.usgs.gov/
+
+* U.S. Census Bureau
+https://www.census.gov/
+
