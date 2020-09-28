@@ -9,7 +9,7 @@ Statistics of North American Affordable Data
 * JSON format
 * Up to date 09/28/2020
 
-Sources:
+Offcial Sources:
 * U.S. Geological Survey
 https://www.usgs.gov/
 
