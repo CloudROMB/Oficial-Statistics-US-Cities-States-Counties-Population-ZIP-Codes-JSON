@@ -3,7 +3,7 @@ Statistics of North American Affordable Data
 
 
 
-####US cities with population, geo coordinates, states, counties, county fips, zip codes.
+### US cities with population, geo coordinates, states, counties, county fips, zip codes.
 
 * 29488 US cities
 * JSON format
